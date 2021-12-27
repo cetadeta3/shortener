@@ -68,8 +68,7 @@
 
 <footer class="bg-tertiary">
 <div class="max-w-2xl mx-auto px-4 py-8 flex flex-col items-center space-y-2 md:flex-row md:justify-between md:space-x-4 md:space-y-0">
-  <span>Created with ♥ by <a href="https://jakerunzer.com" class="hover:opacity-60 underline">Jake Runzer</a></span>
-  <span>Source on <a href="https://github.com/coffee-cup/shortener" class="hover:opacity-60 underline">GitHub</a></span>
+  <span>Copyright © 2022 Anonymous.</span>
 </div>
 </footer>
 
